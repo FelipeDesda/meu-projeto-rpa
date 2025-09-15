@@ -1,0 +1,1 @@
+Ol, Este  um texto digitado automaticamente pelo PyAutoGUI. Estou aprendendo automao!
